@@ -16,7 +16,7 @@
 <body>
     
       <div class="bg-img">
-      <div class="centered" style="font-size: 60px"><b>Diabetes</b></div>
+      <div class="centered" style="font-size: 60px color: black"><b>Diabetes</b></div>
 
         <div class="container">
           <div class="topnav">
@@ -30,7 +30,7 @@
           </div>   
           </div>
       </div>
-    <div id="diabetespage">
+<!--     <div id="diabetespage">
         <h1>Diabetes</h1>
         <p>
         Diabetes is a chronic disease that occurs either when the pancreas does not produce enough insulin or when the body cannot effectively use the insulin it produces. Insulin is a hormone that regulates blood sugar. Hyperglycaemia, or raised blood sugar, is a common effect of uncontrolled diabetes and over time leads to serious damage to many of the body's systems, especially the nerves and blood vessels.<p>
@@ -46,11 +46,11 @@
         <br>DiabetesPedigreeFunction: Diabetes pedigree function
         <br>Age: Age (years)
         <br>Class: Class variable (1: tested positive for diabetes, 0: tested negative for diabetes)<p>
-    </div>
+    </div> -->
 
     <div style="color:black; text-align: center">
         <form action="{{ url_for('diabetes')}}" method="POST">
-            <h1>Diabetes Predictor ML Application</h1><br>
+<!--             <h1>Diabetes Predictor ML Application</h1><br> -->
             <label for="first"><strong>Pregnancies (eg. 0, 2,..)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></label> <input id="first" name="Pregnancies" type="number" required="required"><br><br>
 
             <label for="second"><strong>Glucose (eg. 89, 139,..) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></label> <input id="second" name="Glucose" type="number" step="any" required="required"><br><br>
