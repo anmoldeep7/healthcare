@@ -5,13 +5,11 @@ Link: [https://healthcaredashboard.herokuapp.com/home](https://healthcaredashboa
 
 ## Input
 [![](https://github.com/anmoldeep7/healthcare/blob/main/input1.png)](https://healthcaredashboard.herokuapp.com/home)
-[![](https://github.com/anmoldeep7/healthcare/blob/main/input2.png)](https://healthcaredashboard.herokuapp.com/home)
 
 ## Output
 [![](https://github.com/anmoldeep7/healthcare/blob/main/output1.png)](https://healthcaredashboard.herokuapp.com/home)
-[![](https://github.com/anmoldeep7/healthcare/blob/main/output2.png)](https://healthcaredashboard.herokuapp.com/home)
 
-##Another example- 
+## Another example- 
 Input
 [![](https://github.com/anmoldeep7/healthcare/blob/main/input2.png)](https://healthcaredashboard.herokuapp.com/home)
 <br>
