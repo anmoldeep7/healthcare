@@ -1,4 +1,28 @@
-# Healthcare Application
+# Healthcare Application: 
+
+## Demo
+Link: [https://healthcaredashboard.herokuapp.com/home](https://healthcaredashboard.herokuapp.com/home)
+
+## Input
+[![](https://github.com/anmoldeep7/foreign-university-admission/blob/main/Input.png)](https://healthcaredashboard.herokuapp.com/home)
+
+## Output
+[![](https://github.com/anmoldeep7/foreign-university-admission/blob/main/Output.png)](https://healthcaredashboard.herokuapp.com/home)
+[![](https://github.com/anmoldeep7/foreign-university-admission/blob/main/Output2.png)](https://healthcaredashboard.herokuapp.com/home)
+
+
+## Flowchart 
+<p align="center">
+  <img src="https://github.com/anmoldeep7/foreign-university-admission/blob/main/flowchart.png"/>
+</p>
+
+## Novelty
+1) Train different custom models on the website using various algorithms like XGBoost, Random Forest, SVR, Decision tree etc. Save them to use them as predictors. Choose among various plots like Correlation matrix, Histogram for detailed information about different factors affecting admit chances.
+
+2) Used Streamlit instead of flask, django to create a clean UI and make the process much more cohesive and optimized. 
+
+2) Applied feature engineering to drop unwanted features, handle missing values, handle categorical features, handle feature scaling, remove outliers, explore the Correlation between numerical features, find relation between features and labels. This led to reduced mean squared error of the algorithm without increasing the complexity of the model.
+
 
 
   
