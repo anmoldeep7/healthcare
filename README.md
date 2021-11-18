@@ -1,11 +1,11 @@
 # Healthcare Application
 
-<div align="justify">
+
   
-Access to quality healthcare and doctors has always been a concern in developing countries and remote areas. To deal with such issues, this healthcare web application is developed. Healthcare data was fed to machine learning training models and engines for predictive modelling. The accuracy of these models is directly proportional to the training they get. These models will be able to predict the potential health risks to a patient a lot earlier so that they could take the preventive measures and live a long healthy life.<br />
+<!-- Access to quality healthcare and doctors has always been a concern in developing countries and remote areas. To deal with such issues, this healthcare web application is developed. Healthcare data was fed to machine learning training models and engines for predictive modelling. The accuracy of these models is directly proportional to the training they get. These models will be able to predict the potential health risks to a patient a lot earlier so that they could take the preventive measures and live a long healthy life.<br /> -->
 This healthcare web application can be accessed by the given link- https://healthcare-web-application.herokuapp.com/
 
-## Heart Disease
+<!-- ## Heart Disease
 A disease is an unnatural medical condition that negatively affects the functional state of an organism and is generally associated with certain signs of illness. As reported by World Health Organization (WHO), Heart Disease and Stroke are the world’s biggest killers and have remained the leading causes of death globally in the last 15 years. In the direction of predicting heart disease, Machine Learning can present remarkable features that simplify the identification of unseen patterns, eventually providing clinical insights that assist physicians in planning and providing care.<br />
 The Heart Disease dataset has been taken from Kaggle. This database contains 76 attributes, but all published experiments refer to using a subset of 14 of them. It has a total number of 303 rows and 14 columns among which 165 have a heart disease.<br />
 *Data Source:* [Heart Disease Dataset](https://www.kaggle.com/johnsmith88/heart-disease-dataset)
@@ -29,5 +29,4 @@ The dataset contains a total of 27,558 cell images with equal instances of paras
 Pneumonia is an inflammatory condition of the lung affecting primarily the small air sacs known as alveoli. Symptoms typically include some combination of productive or dry cough, chest pain, fever and difficulty breathing. The severity of the condition is variable.<br />
 Chest X-ray images (anterior-posterior) were selected from retrospective cohorts of pediatric patients of one to five years old from Guangzhou Women and Children’s Medical Center, Guangzhou. All chest X-ray imaging was performed as part of patients’ routine clinical care.For the analysis of chest x-ray images, all chest radiographs were initially screened for quality control by removing all low quality or unreadable scans. The diagnoses for the images were then graded by two expert physicians before being cleared for training the AI system. In order to account for any grading errors, the evaluation set was also checked by a third expert. There are 5,863 X-Ray images (JPEG) and 2 categories (Pneumonia/Normal).<br />
 *Data Source:* [Pneumonia Dataset](https://data.mendeley.com/datasets/rscbjbr9sj/2)
-
-</div>
+ -->
