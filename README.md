@@ -4,11 +4,19 @@
 Link: [https://healthcaredashboard.herokuapp.com/home](https://healthcaredashboard.herokuapp.com/home)
 
 ## Input
-[![](https://github.com/anmoldeep7/foreign-university-admission/blob/main/Input.png)](https://healthcaredashboard.herokuapp.com/home)
+[![](https://github.com/anmoldeep7/healthcare/blob/main/input1.png)](https://healthcaredashboard.herokuapp.com/home)
+[![](https://github.com/anmoldeep7/healthcare/blob/main/input2.png)](https://healthcaredashboard.herokuapp.com/home)
 
 ## Output
-[![](https://github.com/anmoldeep7/foreign-university-admission/blob/main/Output.png)](https://healthcaredashboard.herokuapp.com/home)
-[![](https://github.com/anmoldeep7/foreign-university-admission/blob/main/Output2.png)](https://healthcaredashboard.herokuapp.com/home)
+[![](https://github.com/anmoldeep7/healthcare/blob/main/output1.png)](https://healthcaredashboard.herokuapp.com/home)
+[![](https://github.com/anmoldeep7/healthcare/blob/main/output2.png)](https://healthcaredashboard.herokuapp.com/home)
+
+##Another example- 
+Input
+[![](https://github.com/anmoldeep7/healthcare/blob/main/input2.png)](https://healthcaredashboard.herokuapp.com/home)
+<br>
+Output
+[![](https://github.com/anmoldeep7/healthcare/blob/main/output2.png)](https://healthcaredashboard.herokuapp.com/home)
 
 
 ## Flowchart 
