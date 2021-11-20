@@ -19,7 +19,7 @@ Output
 
 ## Flowchart 
 <p align="center">
-  <img src="https://github.com/anmoldeep7/foreign-university-admission/blob/main/flowchart.png"/>
+  <img src="https://github.com/anmoldeep7/healthcare/blob/main/flow.png"/>
 </p>
 
 ## Novelty
@@ -27,7 +27,7 @@ Output
 
 2) Used Streamlit instead of flask, django to create a clean UI and make the process much more cohesive and optimized. 
 
-2) Applied feature engineering to drop unwanted features, handle missing values, handle categorical features, handle feature scaling, remove outliers, explore the Correlation between numerical features, find relation between features and labels. This led to reduced mean squared error of the algorithm without increasing the complexity of the model.
+3) Applied feature engineering to drop unwanted features, handle missing values, handle categorical features, handle feature scaling, remove outliers, explore the Correlation between numerical features, find relation between features and labels. This led to reduced mean squared error of the algorithm without increasing the complexity of the model.
 
 
 
